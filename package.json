@@ -1,0 +1,20 @@
+{
+  "name": "auto-pilot-experimentation",
+  "version": "1.0.0",
+  "description": "messing around w github autopilot",
+  "main": "server.ts",
+  "author": "mike crowley",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
